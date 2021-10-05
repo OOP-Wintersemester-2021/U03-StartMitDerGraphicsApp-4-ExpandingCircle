@@ -1,4 +1,4 @@
-# U03-1 | Expanding Circle
+# U03-4 | Expanding Circle
 
 Schreiben Sie ein Programm auf der Basis der GraphicsApp, das einen wachsenden Kreis animiert. In der Mitte der Zeichenfläche wird eine Ellipse dargestellt, die mit jedem Aufruf der `draw`-Methode um `1px` in beide Dimensionen wächst. Nutzen Sie zur Animation das Muster, das in
 der Vorlesung im Rahmen des *draw loops* vorgestellt wurde.
