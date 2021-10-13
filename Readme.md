@@ -5,4 +5,6 @@ der Vorlesung im Rahmen des *draw loops* vorgestellt wurde.
 
 Definieren Sie in Ihrem Programm zwei Konstanten für einen initialen (`50px`) sowie einen maximalen Radius (`250px`) für die Ellipse. Sobald der maximale Wert erreicht ist, wird die Ellipse auf die ursprüngliche Größe zurückgesetzt. Die Animation `[initialer Radius -> maximaler Radius]` soll sich endlos wiederholen.
 
-![Expanding Circle](docs/u03-expandingCircle.gif)
+| So soll der Expanding Circle aussehen. |
+|:----:|
+| ![Expanding Circle](./docs/u03-expandingCircle.gif) |
